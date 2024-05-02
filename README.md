@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @KelvinxG
-- 👀 I’m interested in so many interesting things, from education, science, neuroscience and many other science related fields
+- 👋 Hi, I’m @KelvinxG, a Computer engineering graudate
+- 👀 I’m interested in so many interesting in education, science, neuroscience and many other science related fields
 - 💞️ Any collaboration is fine, i'm open if you have an idea or a business idea you can email me and we can connect via email or discord
 - 📫 How to reach me : tearteamoguy@gmail.com
 
