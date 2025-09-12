@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @KelvinxG, a Computer engineering graudate
+- 👋 Hi, I’m @KelvinxG, a Computer engineering graudate. currently working as a data engineer
 - 👀 I’m interested in so many interesting in education, science, neuroscience and many other science related fields
-- 💞️ Any collaboration is fine, i'm open if you have an idea or a business idea you can email me and we can connect via email or discord
-- 📫 How to reach me : tearteamoguy@gmail.com
+- 💞️ Open to collaboration to competition or startups, i'm open if you have an idea or a business idea you can email me and we can connect via email or discord
+- 📫 How to reach me : tearteamoguy@gmail.com , discord .onlyy0urs (with dot)
 
 <!---
 KelvinxG/KelvinxG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
