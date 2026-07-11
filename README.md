@@ -1,10 +1,5 @@
-I write python for businesses and for myself
-a lot of the times, i created internal tools just for myself for fun.
+I started in data science trying to build models, realized the real bottleneck was always the data itself, and moved into data engineering. That shift taught me how to build systems that actually scale. Now, as a Principal Data Consultant, I help organizations architect and implement data solutions — from platforms and pipelines to complete data-driven applications. I have the full-stack skills to ship end-to-end when needed, but my real passion is in the data engineering layer.
 
-the man of curiosity, educational background in computer engineering currently working as a data engineer.
 
-contact: kelvin.sookma@gmail.com
-<!---
-KelvinxG/KelvinxG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+linkedin : https://www.linkedin.com/in/kayyasit-sookma-96b893141/
+email : tearteamoguy@gmail.com / kelvin.sookma@gmail.com
