@@ -1,5 +1,6 @@
-I founded Klaritydata.co, Data & AI solution for manufacturing companies mid-sized enterprises - multi-operations plants to help reduce manual P&L reporting and improve efficiencies
+Hi, I’m Kelvin, founder of KlarityData. We build data and AI solutions for mid-sized manufacturers with multiple plants, helping them reduce manual P&L reporting and improve operational efficiency.
 
-email me at kelvin@klaritydata.co
+I also enjoy coding for fun and exploring new ideas.
 
-Besides that i code for fun
+Contact me ? kelvin@klaritydata.co
+Linkedin : 
