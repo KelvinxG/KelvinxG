@@ -3,4 +3,4 @@ Hi, I’m Kelvin, founder of KlarityData. We build data and AI solutions for mid
 I also enjoy coding for fun and exploring new ideas.
 
 Contact me ? kelvin@klaritydata.co
-Linkedin : 
+Linkedin : https://www.linkedin.com/in/kayyasit-sookma-96b893141/
